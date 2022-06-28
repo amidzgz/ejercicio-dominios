@@ -1,1 +1,7 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+.d {
+  word-break: break-all;
+}
+.container {
+  max-width: 65%;
+}
